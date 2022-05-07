@@ -175,7 +175,7 @@ In order to deploy our package, we will make use a GitHub repository. We will us
 1. After creating your empty on GitHub, repository, Initialize your local repository.
 ```bash
 git init
-git remote add origin git@github.com::<your username>/<your project name>.git
+git remote add origin git@github.com:<your username>/<your project name>.git
 ```
 
 2. Create a `.gitignore` file and add the vendor directory to it.
