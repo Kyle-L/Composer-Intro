@@ -2,9 +2,12 @@
 
 ---
 
-Creating a composer package is a straightforward and simple process. In this tutorial, we will be creating a simple composer package and deploying it to [Packagist](https://packagist.org/).
+Creating a composer package is a straightforward and simple process. In this tutorial, we will be creating a simple composer package and deploying it to [Packagist](https://packagist.org/). A learning assignment will also be provided to challenge you to create a more complex composer package.
 
-## Table of Contents
+Estimated completion time: 20 - 30 minutes
+This set of instructions is intended for beginners with a little experience with PHP, object oriented programming, and consuming a RESTful API.
+
+## Contents
 - [Intro - Basics of Making a Package](#intro---basics-of-making-a-package)
   - [Create Accounts](#create-accounts)
   - [Initialize Your Package](#initialize-your-package)
@@ -16,7 +19,16 @@ Creating a composer package is a straightforward and simple process. In this tut
   - [Requirements](#requirements)
   - [Class Diagram](#class-diagram)
   - [Key Challenges](#key-challenges)
+  - [The Solution](#the-solution)
 
+## Prerequisites
+A basic understanding of PHP syntax, object oriented programming, and RESTful APIs.
+
+## Objectives
+- [ ] Learn what a composer package is.
+- [ ] Learn what Packagist is.
+- [ ] Learn how to deploy a composer package to Packagist.
+- [ ] Learn how to implement a simple package with dependencies.
 
 # Intro - Basics of Making a Package
 
@@ -223,3 +235,7 @@ By the end of the assignment, you should have three classes (or similar classes)
 - [ ] Determining how to handle the API key
 - [ ] How to handle multiple classes in a single package
 - [ ] How to handle error handling
+
+## The Solution
+
+While it is recommended to follow the class diagram above and build your own package yourself, there is a provided solution you can look if you finish and want to see another solution or you get stuck. To see the solution, select the `solution` branch of the repository.
