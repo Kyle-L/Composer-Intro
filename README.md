@@ -172,7 +172,7 @@ class Hello
 
 In order to deploy our package, we will make use a GitHub repository. We will use the GitHub API and a webhook to trigger our package to be deployed. First, make a new empty GitHub repository with no files.
 
-1. After creating your empty on GitLab, repository, Initialize your local repository.
+1. After creating your empty on GitHub, repository, Initialize your local repository.
 ```bash
 git init
 git remote add origin git@github.com::<your username>/<your project name>.git
