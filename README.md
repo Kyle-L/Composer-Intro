@@ -1,11 +1,8 @@
 ![Composer Intro](assets/Title.png)
 
----
+*Estimated completion time: 20 - 30 minutes*
 
-Creating a composer package is a straightforward and simple process. In this tutorial, we will be creating a simple composer package and deploying it to [Packagist](https://packagist.org/). A learning assignment will also be provided to challenge you to create a more complex composer package.
-
-Estimated completion time: 20 - 30 minutes
-This set of instructions is intended for beginners with a little experience with PHP, object oriented programming, and consuming a RESTful API.
+*This set of instructions is intended for beginners with a little experience with PHP, object oriented programming, and consuming a RESTful API.*
 
 ## Contents
 - [Intro - Basics of Making a Package](#intro---basics-of-making-a-package)
@@ -31,6 +28,8 @@ A basic understanding of PHP syntax, object oriented programming, and RESTful AP
 - [ ] Learn how to implement a simple package with dependencies.
 
 # Intro - Basics of Making a Package
+
+Creating a composer package is a straightforward and simple process. In this tutorial, we will be creating a simple composer package and deploying it to [Packagist](https://packagist.org/). A learning assignment will also be provided to challenge you to create a more complex composer package.
 
 ## Create Accounts
 
